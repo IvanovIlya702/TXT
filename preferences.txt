@@ -1,0 +1,5 @@
+Like_film 1408
+Like_serial Supernatural
+Like_food Burgers
+Season Summer
+Country Australia
