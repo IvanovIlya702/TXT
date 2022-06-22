@@ -1,0 +1,4 @@
+Ivanov Ilya Gennadevich
+Age 31
+Pets 0
+Salary 1000$
